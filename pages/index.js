@@ -1,9 +1,10 @@
-export default class extends React.Component {
-  render(){
-    return (
-      <div>
-        <h1>HOLA PROYECTO COVID</h1>
-      </div>
-    )
-  }
-}
+import Layout from "../layout/layout";
+
+const index = (props) => {
+  return (
+    <Layout>
+    </Layout>
+  );
+};
+
+export default index;
