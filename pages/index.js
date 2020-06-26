@@ -1,6 +1,6 @@
-import Layout from "../layout/layout";
+import Layout from '../layout/layout'
 
-const index = (props) => {
+const index = () => {
   return (
     <Layout>
     </Layout>
