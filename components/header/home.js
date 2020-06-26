@@ -15,7 +15,7 @@ const home = () => {
       animateValue("total", 0, response.data.results[0].total_cases, 1000);
       animateValue("recovered", 0, response.data.results[0].total_recovered, 1000);
       animateValue("death", 0, response.data.results[0].total_deaths, 1000);
-      this.actualDateTime();
+      actualDateTime();
     })
   }, []);
 
@@ -38,9 +38,9 @@ const home = () => {
     window.requestAnimationFrame(step);
   };
 
-  actualDateTime = () => {
+  const actualDateTime = () => {
     const time = new Date();
-    const month = this.monthString(time.getMonth());
+    const month = monthString(time.getMonth());
     const date = time.getDate();
     const year = time.getFullYear();
     const hour = time.getHours();

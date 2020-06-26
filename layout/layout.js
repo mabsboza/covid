@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-const layout = () => {
+const layout = (props) => {
   return (
     <div>
       <Head>
@@ -9,6 +9,9 @@ const layout = () => {
         <title>Corona Virus</title>
         <link rel='icon' href='/virus.ico'/>
       </Head>
+      <div className="nk-body">
+        <div className="nk-wrap">{props.children}</div>
+      </div>
     </div>
   );
 };
