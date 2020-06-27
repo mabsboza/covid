@@ -1,5 +1,8 @@
 import { useEffect, useState } from "react";
 
+import { connect } from "react-redux";
+import * as actionTypes from "../../store/actionTypes";
+
 const navbar = (props) => {
   const [navBarClass, setNavBarClass] = useState([
     "nk-navbar is-light is-sticky",
@@ -58,8 +61,7 @@ const navbar = (props) => {
             {" "}
             <a href="/" className="logo-link">
               {" "}
-              <img className="logo-dark" src="/logo-dark.png" alt="logo" />{" "}
-              <img className="logo-light" src="/logo-white.png" alt="logo" />{" "}
+              <img className="logo-dark" src="/covid2.png" alt="logo" />{" "}
             </a>
           </div>
           <div className={["nk-navbar-toggle d-lg-none"].join(" ")}>
@@ -98,7 +100,7 @@ const navbar = (props) => {
                   className={["scrollto nav-link nk-menu-link"].join(" ")}
                   href="#home"
                 >
-                  Home
+                  Inicio
                 </a>
               </li>
               <li className="nk-menu-item" onClick={toggleMenu}>
@@ -106,7 +108,7 @@ const navbar = (props) => {
                   className={["scrollto nav-link nk-menu-link"].join(" ")}
                   href="#about"
                 >
-                  About Corona
+                  Información
                 </a>
               </li>
               <li className="nk-menu-item" onClick={toggleMenu}>
@@ -114,7 +116,7 @@ const navbar = (props) => {
                   className={["scrollto nav-link nk-menu-link"].join(" ")}
                   href="#symptoms"
                 >
-                  Symptoms
+                  Síntomas
                 </a>
               </li>
               <li className="nk-menu-item" onClick={toggleMenu}>
@@ -122,7 +124,7 @@ const navbar = (props) => {
                   className={["scrollto nav-link nk-menu-link"].join(" ")}
                   href="#prevention"
                 >
-                  Prevention
+                  Prevención
                 </a>
               </li>
               <li className="nk-menu-item" onClick={toggleMenu}>
@@ -130,7 +132,7 @@ const navbar = (props) => {
                   className={["scrollto nav-link nk-menu-link"].join(" ")}
                   href="#treatment"
                 >
-                  Treatment
+                  Tratamiento
                 </a>
               </li>
               <li className="nk-menu-item" onClick={toggleMenu}>
@@ -138,7 +140,7 @@ const navbar = (props) => {
                   className={["scrollto nav-link nk-menu-link"].join(" ")}
                   href="#faq"
                 >
-                  FAQ
+                  
                 </a>
               </li>
               <li className="nk-menu-item" onClick={toggleMenu}>
@@ -146,7 +148,7 @@ const navbar = (props) => {
                   className={["scrollto nav-link nk-menu-link"].join(" ")}
                   href="#news"
                 >
-                  News
+                  
                 </a>
               </li>
               <li className="nk-menu-item" onClick={toggleMenu}>
@@ -154,27 +156,7 @@ const navbar = (props) => {
                   className="nav-link nk-menu-link nk-menu-toggle"
                   href="#navbar"
                 >
-                  More
                 </a>
-                <ul
-                  className={
-                    props.darkTheme
-                      ? "nk-menu-dropdown nk-menu-sub bg-dark"
-                      : "nk-menu-dropdown nk-menu-sub"
-                  }
-                  style={{ display: "block" }}
-                >
-                  <li className="nk-menu-item" onClick={props.setLightTheme}>
-                    <a className="nav-link nk-menu-link" href="#navbar">
-                      Light Theme
-                    </a>
-                  </li>
-                  <li className="nk-menu-item" onClick={props.setDarkTheme}>
-                    <a className="nav-link nk-menu-link" href="#navbar">
-                      Dark Theme
-                    </a>
-                  </li>
-                </ul>
               </li>
             </ul>
             <ul className="nk-menu-btns">
@@ -183,7 +165,7 @@ const navbar = (props) => {
                   href="#protect"
                   className={["btn btn-sm scrollto nav-link"].join(" ")}
                 >
-                  Do &amp; Don’t
+                 Guía
                 </a>
               </li>
             </ul>
@@ -199,5 +181,17 @@ const navbar = (props) => {
   );
 };
 
+const mapStateToProps = (state) => {
+  return {
+    darkTheme: state.theme.darkTheme,
+  };
+};
 
-export default navbar;
+const mapDispatchToProps = (dispatch) => {
+  return {
+    setLightTheme: () => dispatch({ type: actionTypes.SET_LIGHT_THEME }),
+    setDarkTheme: () => dispatch({ type: actionTypes.SET_DARK_THEME }),
+  };
+};
+
+export default connect(mapStateToProps, mapDispatchToProps)(navbar);
