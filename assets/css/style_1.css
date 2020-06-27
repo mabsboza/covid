@@ -439,62 +439,6 @@ h6,
   right: 0;
 }
 
-.shape-a {
-  background-image: url("../images/shape-a.png");
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-size: 100%;
-}
-
-.shape-a-sm {
-  background-image: url("../images/shape-a-sm.png");
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-size: 100%;
-}
-
-.shape-b {
-  background-image: url("../images/shape-b.png");
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-size: 100%;
-}
-
-.shape-b-sm {
-  background-image: url("../images/shape-b-sm.png");
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-size: 100%;
-}
-
-.shape-c {
-  background-image: url("../images/shape-c.png");
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-size: 100%;
-}
-
-.shape-d {
-  background-image: url("../images/shape-d.png");
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-size: 100%;
-}
-
-.shape-e {
-  background-image: url("../images/shape-e.png");
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-size: 100%;
-}
-
-.shape-line-a {
-  background-image: url("../images/shape-line-a.png");
-  background-repeat: no-repeat;
-  background-position: 0 0;
-  background-size: 100%;
-}
-
 .bottom {
   top: auto;
 }
@@ -543,7 +487,7 @@ h6,
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background-color: #2a81ea;
+  background-color: #68539e;
   color: #fff;
   font-weight: bold;
   padding: 0.5rem 1.25rem;
@@ -563,7 +507,7 @@ h6,
 
 .btn:hover {
   color: #fff;
-  background-color: #1468cd;
+  background-color: #7a5da4;
 }
 
 .btn-transparent {
@@ -876,8 +820,7 @@ select ~ .error:after {
 
 @media (min-width: 992px) {
   .nk-banner-image {
-    margin-left: -130px;
-    margin-right: -40px;
+    margin-right: -60px;
   }
 }
 
@@ -903,7 +846,6 @@ select ~ .error:after {
     padding-top: 1.25rem;
   }
   .nk-banner-image {
-    margin-left: -130px;
     margin-right: -60px;
   }
 }
@@ -916,7 +858,7 @@ select ~ .error:after {
     font-size: 1.125rem;
   }
   .nk-banner-block .heading {
-    font-size: 6.25rem;
+    font-size: 4.25rem;
   }
   .nk-banner-block .heading-sm .sup {
     font-size: 2rem;
