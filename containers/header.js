@@ -1,14 +1,28 @@
 import Home from '../components/header/home'
 import NavBar from '../components/header/navbar'
+import { connect } from "react-redux";
 
-const header = () => {
+const header = (props) => {
   return (
-    <header id='home' className='nk-header bg-dark tc-light has-overlay'>
-      <div className={["overlay shape shape-a"].join(" ")}></div>
+    <header
+      className={
+        props.darkTheme
+          ? "nk-header bg-dark tc-light has-overlay"
+          : "nk-header bg-light has-overlay"
+      }
+      id="home"
+      >
+      <div></div>
       <Home />
       <NavBar />
     </header>
   );
 };
 
-export default header;
+const mapStateToProps = (state) => {
+  return {
+    darkTheme: state.theme.darkTheme,
+  };
+};
+
+export default connect(mapStateToProps)(header);
