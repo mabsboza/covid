@@ -534,7 +534,7 @@ const items = [
       ),
     },
     {
-      title: "Who is at higher risk for serious illness from COVID-19?",
+      title: "¿Quién está en mayor riesgo de enfermedad grave por COVID-19?",
       body: (
         <React.Fragment>
           <p>
@@ -659,7 +659,7 @@ const items = [
       ),
     },
     {
-      title: "Should I be tested for COVID-19?",
+      title: "¿Debo hacerme la prueba de COVID-19?",
       body: (
         <React.Fragment>
           <p>
