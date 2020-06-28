@@ -216,72 +216,72 @@ const items = [
           </p>
           <ul>
             <li>
-              The patient is free from fever without the use of fever-reducing
-              medications.
+              El paciente no tiene fiebre sin el uso de medicamentos para reducir la fiebre.
+              medicamentos
             </li>
-            <li>The patient is no longer showing symptoms, including cough.</li>
+            <li>El paciente ya no muestra síntomas, como tos.</li>
             <li>
-              The patient has tested negative on at least two consecutive
-              respiratory specimens collected at least 24 hours apart.
+              El paciente ha dado negativo en al menos dos veces consecutivas.
+              muestras respiratorias recolectadas con al menos 24 horas de diferencia.
             </li>
           </ul>
           <p>
-            Someone who has been released from isolation is not considered to
-            pose a risk of infection to others.
+            Alguien que ha sido liberado del aislamiento no se considera
+            plantean un riesgo de infección a los demás.
           </p>
         </React.Fragment>
       ),
     },
     {
-      title: "Will warm weather stop the outbreak of COVID-19?",
+      title: "¿El clima cálido detendrá el brote de COVID-19?",
       body: (
         <React.Fragment>
           <p>
-            It is not yet known whether weather and temperature impact the
-            spread of COVID-19. Some other viruses, like the common cold and
-            flu, spread more during cold weather months but that does not mean
-            it is impossible to become sick with these viruses during other
-            months. At this time, it is not known whether the spread of COVID-19
-            will decrease when weather becomes warmer. There is much more to
-            learn about the transmissibility, severity, and other features
-            associated with COVID-19 and investigations are ongoing.
+            Todavía no se sabe si el clima y la temperatura afectan el
+            propagación de COVID-19. Algunos otros virus, como el resfriado común y
+            gripe, se propaga más durante los meses de clima frío, pero eso no significa
+            es imposible enfermarse con estos virus durante otros
+            meses. En este momento, no se sabe si la propagación de COVID-19
+            disminuirá cuando el clima se vuelva más cálido. Hay mucho más para
+            aprender sobre la transmisibilidad, la gravedad y otras características
+            asociado con COVID-19 y las investigaciones están en curso.
           </p>
         </React.Fragment>
       ),
     },
     {
       title:
-        "Can the virus that causes COVID-19 be spread through food, including refrigerated or frozen food?",
+        "¿Se puede transmitir el virus que causa COVID-19 a través de los alimentos, incluidos los alimentos refrigerados o congelados?",
       body: (
         <React.Fragment>
           <p>
-            Coronaviruses are generally thought to be spread from
-            person-to-person through respiratory droplets. Currently there is no
-            evidence to support transmission of COVID-19 associated with food.
-            Before preparing or eating food it is important to always wash your
-            hands with soap and water for 20 seconds for general food safety.
-            Throughout the day wash your hands after blowing your nose, coughing
-            or sneezing, or going to the bathroom.
+            Generalmente se cree que los coronavirus se transmiten de
+            persona a persona a través de gotitas respiratorias. Actualmente no hay
+            evidencia para apoyar la transmisión de COVID-19 asociado con alimentos.
+            Antes de preparar o comer alimentos, es importante lavar siempre
+            manos con agua y jabón durante 20 segundos para la seguridad alimentaria general.
+            Durante todo el día, lávese las manos después de sonarse la nariz, toser
+            o estornudar, o ir al baño.
           </p>
           <p>
-            It may be possible that a person can get COVID-19 by touching a
-            surface or object that has the virus on it and then touching their
-            own mouth, nose, or possibly their eyes, but this is not thought to
-            be the main way the virus spreads.
+            Es posible que una persona pueda obtener COVID-19 tocando un
+            superficie u objeto que tiene el virus y luego toca su
+            propia boca, nariz o posiblemente sus ojos, pero no se cree que esto
+            ser la principal forma en que se propaga el virus.
           </p>
           <p>
-            In general, because of poor survivability of these coronaviruses on
-            surfaces, there is likely very low risk of spread from food products
-            or packaging that are shipped over a period of days or weeks at
-            ambient, refrigerated, or frozen temperatures.
+            En general, debido a la poca capacidad de supervivencia de estos coronavirus en
+            superficies, existe un riesgo muy bajo de propagación de los productos alimenticios
+            o embalaje que se envía durante un período de días o semanas a
+            temperatura ambiente, refrigerada o congelada.
           </p>
           <p>
-            Learn what is known about the
+            Aprenda lo que se sabe sobre el
             <a
               href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html"
               target="_blank"
             >
-              spread of COVID-19
+            propagación de COVID-19
             </a>
             .
           </p>
@@ -289,13 +289,13 @@ const items = [
       ),
     },
     {
-      title: "What is community spread?",
+      title: "¿Qué es la difusión comunitaria?",
       body: (
         <React.Fragment>
           <p>
-            Community spread means people have been infected with the virus in
-            an area, including some who are not sure how or where they became
-            infected.
+            La propagación comunitaria significa que las personas han sido infectadas con el virus en
+            un área, incluidos algunos que no están seguros de cómo o dónde se convirtieron
+            infectado.
           </p>
         </React.Fragment>
       ),
@@ -304,74 +304,74 @@ const items = [
   [
     {
       title:
-        "What can I do to protect myself and prevent the spread of disease?",
+        "¿Qué puedo hacer para protegerme y prevenir la propagación de la enfermedad?",
       body: (
         <React.Fragment>
-          <h5>Protection measures for everyone</h5>
+          <h5>Medidas de protección para todos</h5>
           <p>
-            Stay aware of the latest information on the COVID-19 outbreak,
-            available on the WHO website and through your national and local
-            public health authority. Many countries around the world have seen
-            cases of COVID-19 and several have seen outbreaks. Authorities in
-            China and some other countries have succeeded in slowing or stopping
-            their outbreaks. However, the situation is unpredictable so check
-            regularly for the latest news.
+            Manténgase al tanto de la información más reciente sobre el brote de COVID-19,
+            disponible en el sitio web de la OMS y a través de su red nacional y local
+            autoridad de salud pública. Muchos países alrededor del mundo han visto
+            casos de COVID-19 y varios han visto brotes. Autoridades en
+            China y algunos otros países han logrado frenar o detenerse
+            sus brotes Sin embargo, la situación es impredecible, así que verifique
+            regularmente para las últimas noticias.
           </p>
           <p>
-            You can reduce your chances of being infected or spreading COVID-19
-            by taking some simple precautions:
+            Puede reducir sus posibilidades de infectarse o propagar COVID-19
+            tomando algunas precauciones simples:
           </p>
           <ul className="list-dot">
             <li>
-              Regularly and thoroughly clean your hands with an alcohol-based
-              hand rub or wash them with soap and water. <br />
-              <strong>Why?</strong>
-              Washing your hands with soap and water or using alcohol-based hand
-              rub kills viruses that may be on your hands.
+              Limpie sus manos regularmente y a fondo con un alcohol
+              frótelos a mano o lávelos con agua y jabón. <br />
+              <strong>Por que?</strong>
+              Lavarse las manos con agua y jabón o usar alcohol a mano.
+              frotar mata los virus que pueden estar en tus manos.
             </li>
             <li>
-              Maintain at least 1 metre (3 feet) distance between yourself and
-              anyone who is coughing or sneezing. <br />
-              <strong>Why?</strong> When someone coughs or sneezes they spray
-              small liquid droplets from their nose or mouth which may contain
-              virus. If you are too close, you can breathe in the droplets,
-              including the COVID-19 virus if the person coughing has the
-              disease.
+              Mantenga al menos 1 metro (3 pies) de distancia entre usted y
+              cualquiera que esté tosiendo o estornudando. <br />
+              <strong>Por que?</strong> Cuando alguien tose o estornuda, rocía
+              Pequeñas gotas de líquido de la nariz o la boca que pueden contener
+              virus. Si estás demasiado cerca, puedes respirar las gotas,
+              incluido el virus COVID-19 si la persona que tose tiene la
+              enfermedad.
             </li>
             <li>
-              Avoid touching eyes, nose and mouth. <br />
-              <strong>Why?</strong> Hands touch many surfaces and can pick up
-              viruses. Once contaminated, hands can transfer the virus to your
-              eyes, nose or mouth. From there, the virus can enter your body and
-              can make you sick.
+              Evite tocarse los ojos, la nariz y la boca. <br />
+              <strong>Por que?</strong> Las manos tocan muchas superficies y pueden levantar
+              virus Una vez contaminadas, las manos pueden transferir el virus a su
+              ojos, nariz o boca. A partir de ahí, el virus puede ingresar a su cuerpo y
+              puede enfermarte
             </li>
             <li>
-              Make sure you, and the people around you, follow good respiratory
-              hygiene. This means covering your mouth and nose with your bent
-              elbow or tissue when you cough or sneeze. Then dispose of the used
-              tissue immediately. <br />
-              <strong>Why?</strong> Droplets spread virus. By following good
-              respiratory hygiene you protect the people around you from viruses
-              such as cold, flu and COVID-19.
+              Asegúrate de que tú y las personas que te rodean sigan una buena respiración
+              higiene. Esto significa cubrirse la boca y la nariz con la inclinación.
+              codo o tejido cuando tose o estornuda. Luego deseche el usado
+              tejido de inmediato. <br />
+              <strong>Por que?</strong> Las gotas propagan el virus. Siguiendo bien
+              higiene respiratoria protege a las personas a su alrededor de virus
+              como resfriado, gripe y COVID-19.
             </li>
             <li>
-              Stay home if you feel unwell. If you have a fever, cough and
-              difficulty breathing, seek medical attention and call in advance.
-              Follow the directions of your local health authority. <br />
-              <strong>Why?</strong>
-              National and local authorities will have the most up to date
-              information on the situation in your area. Calling in advance will
-              allow your health care provider to quickly direct you to the right
-              health facility. This will also protect you and help prevent
-              spread of viruses and other infections.
+              Quédese en casa si no se siente bien. Si tiene fiebre, tos y
+              dificultad para respirar, busque atención médica y llame con anticipación.
+              Siga las instrucciones de su autoridad de salud local. <br />
+              <strong>Por que?</strong>
+              Las autoridades nacionales y locales tendrán la información más actualizada.
+              información sobre la situación en su área. Llamar por adelantado lo hará
+              permita que su proveedor de atención médica lo dirija rápidamente a la derecha
+              facilidad de salud. Esto también lo protegerá y ayudará a prevenir
+              propagación de virus y otras infecciones.
             </li>
             <li>
-              Keep up to date on the latest COVID-19 hotspots (cities or local
-              areas where COVID-19 is spreading widely). If possible, avoid
-              traveling to places – especially if you are an older person or
-              have diabetes, heart or lung disease. <br />
-              <strong>Why?</strong> You have a higher chance of catching
-              COVID-19 in one of these areas.
+              Manténgase actualizado sobre los últimos puntos de acceso COVID-19 (ciudades o locales
+              áreas donde COVID-19 se está extendiendo ampliamente). Si es posible, evite
+              viajar a lugares, especialmente si usted es una persona mayor o
+              tiene diabetes, enfermedad cardíaca o pulmonar. <br />
+              <strong>Por que?</strong> Tienes una mayor probabilidad de atrapar
+              COVID-19 en una de estas áreas.
             </li>
           </ul>
         </React.Fragment>
@@ -383,151 +383,151 @@ const items = [
       body: (
         <React.Fragment>
           <p>
-            Household members, intimate partners, and caregivers in a
-            nonhealthcare setting may have close contact2 with a person with
-            symptomatic, laboratory-confirmed COVID-19 or a person under
-            investigation. Close contacts should monitor their health; they
-            should call their healthcare provider right away if they develop
-            symptoms suggestive of COVID-19 (e.g., fever, cough, shortness of
-            breath)
+            Miembros del hogar, parejas íntimas y cuidadores en un
+            el entorno no sanitario puede tener contacto cercano2 con una persona con
+            COVID-19 sintomático confirmado por laboratorio o una persona menor de
+            investigación. Los contactos cercanos deben controlar su salud; ellos
+            debe llamar a su proveedor de atención médica de inmediato si desarrollan
+            síntomas sugestivos de COVID-19 (p. ej., fiebre, tos, falta de
+            respiración)
           </p>
-          <p>Close contacts should also follow these recommendations:</p>
+          <p>Los contactos cercanos también deben seguir estas recomendaciones:</p>
           <ul className="list-dot">
             <li>
-              Make sure that you understand and can help the patient follow
-              their healthcare provider’s instructions for medication(s) and
-              care. You should help the patient with basic needs in the home and
-              provide support for getting groceries, prescriptions, and other
-              personal needs.
+              Asegúrese de comprender y ayudar al paciente a seguir
+              las instrucciones de su proveedor de atención médica para los medicamentos y
+              cuidado. Debe ayudar al paciente con necesidades básicas en el hogar y
+              Brindar apoyo para comprar alimentos, recetas y otros
+              Necesidades personales.
             </li>
             <li>
-              Monitor the patient’s symptoms. If the patient is getting sicker,
-              call his or her healthcare provider and tell them that the patient
-              has laboratory-confirmed COVID-19. This will help the healthcare
-              provider’s office take steps to keep other people in the office or
-              waiting room from getting infected. Ask the healthcare provider to
-              call the local or state health department for additional guidance.
-              If the patient has a medical emergency and you need to call 911,
-              notify the dispatch personnel that the patient has, or is being
-              evaluated for COVID-19.
+              Monitoree los síntomas del paciente. Si el paciente se enferma,
+              llame a su proveedor de atención médica y dígales que el paciente
+              tiene COVID-19 confirmado por laboratorio. Esto ayudará a la asistencia sanitaria.
+              el consultorio del proveedor toma medidas para mantener a otras personas en el consultorio o
+              sala de espera de infectarse. Pídale al proveedor de atención médica que
+              llame al departamento de salud local o estatal para obtener orientación adicional.
+              Si el paciente tiene una emergencia médica y necesita llamar al 911,
+              notificar al personal de despacho que el paciente tiene o está siendo
+              evaluado para COVID-19.
             </li>
             <li>
-              Household members should stay in another room or be separated from
-              the patient as much as possible. Household members should use a
-              separate bedroom and bathroom, if available.
+              Los miembros del hogar deben permanecer en otra habitación o estar separados de
+              El paciente tanto como sea posible. Los miembros del hogar deben usar un
+              Dormitorio y baño separados, si están disponibles.
             </li>
             <li>
-              Prohibit visitors who do not have an essential need to be in the
-              home.
+              Prohibir a los visitantes que no tienen una necesidad esencial estar en el
+              hogar.
             </li>
             <li>
-              Household members should care for any pets in the home. Do not
-              handle pets or other animals while sick.&nbsp; For more
-              information, see
+              Los miembros del hogar deben cuidar a cualquier mascota en el hogar. No haga
+              manejar mascotas u otros animales mientras está enfermo. & nbsp; Para más
+              información, ver
               <a
                 href="https://www.cdc.gov/coronavirus/2019-ncov/faq.html/#2019-nCoV-and-animals"
                 target="_blank"
               >
-                COVID-19 and Animals
+              COVID-19 y Animales
               </a>
               .
             </li>
             <li>
-              Make sure that shared spaces in the home have good air flow, such
-              as by an air conditioner or an opened window, weather permitting.
+              Asegúrese de que los espacios compartidos en el hogar tengan un buen flujo de aire, como
+              como por un aire acondicionado o una ventana abierta, si el clima lo permite.
             </li>
             <li>
-              Perform hand hygiene frequently. Wash your hands often with soap
-              and water for at least 20 seconds or use an alcohol-based hand
-              sanitizer that contains 60 to 95% alcohol, covering all surfaces
-              of your hands and rubbing them together until they feel dry. Soap
-              and water should be used preferentially if hands are visibly
-              dirty.
+              Realizar higiene de manos con frecuencia. Lávese las manos con frecuencia con jabón.
+              y agua durante al menos 20 segundos o use una mano a base de alcohol
+              desinfectante que contiene 60 a 95% de alcohol, que cubre todas las superficies
+              de tus manos y frotarlas hasta que se sientan secas. Jabón
+              y el agua debe usarse preferentemente si las manos están visiblemente
+              sucio.
             </li>
             <li>
-              Avoid touching your eyes, nose, and mouth with unwashed hands.
+              Evite tocarse los ojos, la nariz y la boca con las manos sin lavar.
             </li>
             <li>
-              The patient should wear a facemask when you are around other
-              people. If the patient is not able to wear a facemask (for
-              example, because it causes trouble breathing), you, as the
-              caregiver, should wear a mask when you are in the same room as the
-              patient.
+              El paciente debe usar una máscara facial cuando esté cerca de otra persona.
+              personas. Si el paciente no puede usar una máscara facial (por
+              ejemplo, porque causa problemas para respirar), usted, como el
+              cuidador, debe usar una máscara cuando esté en la misma habitación que el
+              paciente.
             </li>
             <li>
-              Wear a disposable facemask and gloves when you touch or have
-              contact with the patient’s blood, stool, or body fluids, such as
-              saliva, sputum, nasal mucus, vomit, urine.
+              Use una mascarilla desechable y guantes cuando toque o tenga
+              contacto con la sangre, las heces o los fluidos corporales del paciente, como
+              saliva, esputo, mucosidad nasal, vómito, orina
               <ul>
                 <li>
-                  Throw out disposable facemasks and gloves after using them. Do
-                  not reuse.
+                  Tire las mascarillas y guantes desechables después de usarlos. Hacer
+                  No reutilizar.
                 </li>
                 <li>
-                  When removing personal protective equipment, first remove and
-                  dispose of gloves. Then, immediately clean your hands with
-                  soap and water or alcohol-based hand sanitizer. Next, remove
-                  and dispose of facemask, and immediately clean your hands
-                  again with soap and water or alcohol-based hand sanitizer.
+                  Al retirar el equipo de protección personal, primero retire y
+                  deshacerse de los guantes. Luego, inmediatamente lávese las manos con
+                  jabón y agua o desinfectante para manos a base de alcohol. A continuación, elimine
+                  y desecha la mascarilla e inmediatamente lávate las manos
+                  nuevamente con agua y jabón o desinfectante para manos a base de alcohol.
                 </li>
               </ul>
             </li>
             <li>
-              Avoid sharing household items with the patient. You should not
-              share dishes, drinking glasses, cups, eating utensils, towels,
-              bedding, or other items. After the patient uses these items, you
-              should wash them thoroughly (see below “Wash laundry thoroughly”).
+              Evite compartir artículos del hogar con el paciente. Usted no debe
+              compartir platos, vasos, vasos, utensilios para comer, toallas,
+              ropa de cama u otros artículos. Después de que el paciente usa estos artículos, usted
+              debe lavarlos a fondo (ver abajo "Lavar bien la ropa").
             </li>
             <li>
-              Clean all “high-touch” surfaces, such as counters, tabletops,
-              doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets,
-              and bedside tables, every day. Also, clean any surfaces that may
-              have blood, stool, or body fluids on them.
+              Limpie todas las superficies "de alto contacto", como mostradores, mesas,
+              pomos de las puertas, accesorios de baño, inodoros, teléfonos, teclados, tabletas,
+              y mesitas de noche, todos los días. Además, limpie cualquier superficie que pueda
+              tiene sangre, heces o fluidos corporales.
               <ul>
                 <li>
-                  Use a household cleaning spray or wipe, according to the label
-                  instructions. Labels contain instructions for safe and
-                  effective use of the cleaning product including precautions
-                  you should take when applying the product, such as wearing
-                  gloves and making sure you have good ventilation during use of
-                  the product.
+                  Use un espray o una toallita de limpieza doméstica, de acuerdo con la etiqueta
+                  instrucciones. Las etiquetas contienen instrucciones de seguridad y
+                  uso efectivo del producto de limpieza incluyendo precauciones
+                  que debe tomar al aplicar el producto, como usar
+                  guantes y asegurarse de tener buena ventilación durante el uso de
+                  el producto.
                 </li>
               </ul>
             </li>
             <li>
-              Wash laundry thoroughly.
+              Lave bien la ropa.
               <ul>
                 <li>
-                  Immediately remove and wash clothes or bedding that have
-                  blood, stool, or body fluids on them.
+                  Quítese y lave inmediatamente la ropa o ropa de cama que tenga
+                  sangre, heces o fluidos corporales en ellos.
                 </li>
                 <li>
-                  Wear disposable gloves while handling soiled items and keep
-                  soiled items away from your body. Clean your hands (with soap
-                  and water or an alcohol-based hand sanitizer) immediately
-                  after removing your gloves.
+                  Use guantes desechables mientras maneja artículos sucios y manténgalo
+                  Artículos sucios lejos de su cuerpo. Lávate las manos (con jabón
+                  y agua o un desinfectante para manos a base de alcohol) inmediatamente
+                  después de quitarte los guantes.
                 </li>
                 <li>
-                  Read and follow directions on labels of laundry or clothing
-                  items and detergent. In general, using a normal laundry
-                  detergent according to washing machine instructions and dry
-                  thoroughly using the warmest temperatures recommended on the
-                  clothing label.
+                  Lea y siga las instrucciones en las etiquetas de la ropa o ropa
+                  artículos y detergente. En general, usar una ropa normal
+                  detergente según las instrucciones de la lavadora y secar
+                  utilizando a fondo las temperaturas más cálidas recomendadas en el
+                  etiqueta de ropa.
                 </li>
               </ul>
             </li>
             <li>
-              Place all used disposable gloves, facemasks, and other
-              contaminated items in a lined container before disposing of them
-              with other household waste. Clean your hands (with soap and water
-              or an alcohol-based hand sanitizer) immediately after handling
-              these items. Soap and water should be used preferentially if hands
-              are visibly dirty.
+              Coloque todos los guantes desechables usados, mascarillas y otros
+              artículos contaminados en un recipiente forrado antes de desecharlos
+              con otros residuos domésticos. Lávese las manos (con agua y jabón).
+              o un desinfectante para manos a base de alcohol) inmediatamente después de manipularlo
+              estos artículos. El jabón y el agua deben usarse preferentemente si las manos
+              están visiblemente sucias
             </li>
             <li>
-              Discuss any additional questions with your state or local health
-              department or healthcare provider. Check available hours when
-              contacting your local health department.
+              Discuta cualquier pregunta adicional con su salud estatal o local
+              departamento o proveedor de atención médica. Consultar horarios disponibles cuando
+              contactando a su departamento de salud local.
             </li>
           </ul>
         </React.Fragment>
@@ -539,26 +539,26 @@ const items = [
         <React.Fragment>
           <p>
             <strong>
-              Older adults and people of any age who have serious underlying
-              medical conditions
+              Adultos mayores y personas de cualquier edad que tienen antecedentes graves
+              condiciones médicas
             </strong>
-            may be at higher risk for more serious complications from COVID-19.
-            These people who may be at higher risk of getting very sick from
-            this illness, includes:
+            puede estar en mayor riesgo de complicaciones más graves por COVID-19.
+            Estas personas que pueden estar en mayor riesgo de enfermarse gravemente por
+            Esta enfermedad incluye:
           </p>
           <ul className="list-dot">
             <li>
-              <strong>Older adults</strong>
+              <strong>Adultos mayores</strong>
             </li>
             <li>
               <strong>
-                People who have serious underlying medical conditions
+                Las personas que tienen afecciones médicas subyacentes graves.
               </strong>
               like:
               <ul>
-                <li>Heart disease</li>
+                <li>Enfermedad del corazón</li>
                 <li>Diabetes</li>
-                <li>Lung disease</li>
+                <li>Enfermedad pulmonar</li>
               </ul>
             </li>
           </ul>
@@ -567,25 +567,25 @@ const items = [
     },
     {
       title:
-        "What should people at higher risk of serious illness with COVID-19 do?",
+        "¿Qué deben hacer las personas con mayor riesgo de enfermedad grave con COVID-19?",
       body: (
         <React.Fragment>
           <p>
-            If you are at higher risk of getting very sick from COVID-19, you
-            should: stock up on supplies; take everyday precautions to keep
-            space between yourself and others; when you go out in public, keep
-            away from others who are sick; limit close contact and wash your
-            hands often; and avoid crowds, cruise travel, and non-essential
-            travel. If there is an outbreak in your community, stay home as much
-            as possible. Watch for symptoms and emergency signs. If you get
-            sick, stay home and call your doctor. More information on how to
-            prepare, what to do if you get sick, and how communities and
-            caregivers can support those at higher risk is available on
+            Si tiene un mayor riesgo de enfermarse gravemente con COVID-19, usted
+            debería: abastecerse de suministros; tomar precauciones diarias para mantener
+            espacio entre usted y los demás; cuando salgas en público, sigue
+            lejos de otros que están enfermos; limite el contacto cercano y lave su
+            manos a menudo; y evitar multitudes, viajes en crucero y no esenciales
+            viaje. Si hay un brote en su comunidad, quédese tanto en casa
+            como sea posible. Esté atento a los síntomas y signos de emergencia. Si lo consigues
+            enfermo, quédese en casa y llame a su médico. Más información sobre cómo
+            prepararse, qué hacer si se enferma y cómo las comunidades y
+            los cuidadores pueden apoyar a aquellos con mayor riesgo está disponible en
             <a
               href="https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html"
               target="_blank"
             >
-              People at Risk for Serious Illness from COVID-19
+              Personas en riesgo de enfermedades graves por COVID-19
             </a>
             .
           </p>
@@ -593,35 +593,35 @@ const items = [
       ),
     },
     {
-      title: "Should I wear a mask to protect myself?",
+      title: "¿Debo usar una máscara para protegerme?",
       body: (
         <React.Fragment>
           <p>
-            Only wear a mask if you are ill with COVID-19 symptoms (especially
-            coughing) or looking after someone who may have COVID-19. Disposable
-            face mask can only be used once. If you are not ill or looking after
-            someone who is ill then you are wasting a mask. There is a
-            world-wide shortage of masks, so WHO urges people to use masks
-            wisely.
+            Solo use una máscara si está enfermo con síntomas de COVID-19 (especialmente
+            tos) o cuidar a alguien que pueda tener COVID-19. Desechable
+            la mascarilla solo se puede usar una vez. Si no está enfermo o cuidando
+            alguien que está enfermo, entonces estás desperdiciando una máscara. Hay un
+            escasez mundial de máscaras, por lo que la OMS insta a las personas a usar máscaras
+            sabiamente
           </p>
           <p>
-            WHO advises rational use of medical masks to avoid unnecessary
-            wastage of precious resources and mis-use of masks (
+            La OMS aconseja el uso racional de máscaras médicas para evitar innecesarios
+            desperdicio de recursos preciosos y mal uso de máscaras (
             <a
               href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks"
               target="_blank"
             >
-              see Advice on the use of masks
+            ver consejos sobre el uso de máscaras
             </a>
             ).
           </p>
           <p>
-            The most effective ways to protect yourself and others against
-            COVID-19 are to frequently clean your hands, cover your cough with
-            the bend of elbow or tissue and maintain a distance of at least 1
-            meter (3 feet) from people who are coughing or sneezing. See basic
-            protective measures against the new coronavirus for more
-            information.
+            Las formas más efectivas para protegerse y proteger a otros contra
+            COVID-19 es para lavarse las manos con frecuencia, cubrirse la tos con
+            la curva del codo o tejido y mantener una distancia de al menos 1
+            metro (3 pies) de personas que están tosiendo o estornudando. Ver básico
+            medidas de protección contra el nuevo coronavirus para más
+            información.
           </p>
         </React.Fragment>
       ),
@@ -633,25 +633,25 @@ const items = [
       body: (
         <React.Fragment>
           <p>
-            The most common symptoms of COVID-19 are fever, tiredness, and dry
-            cough. Some patients may have aches and pains, nasal congestion,
-            runny nose, sore throat or diarrhea. These symptoms are usually mild
-            and begin gradually. Some people become infected but don’t develop
-            any symptoms and don't feel unwell. Most people (about 80%) recover
-            from the disease without needing special treatment. Around 1 out of
-            every 6 people who gets COVID-19 becomes seriously ill and develops
-            difficulty breathing. Older people, and those with underlying
-            medical problems like high blood pressure, heart problems or
-            diabetes, are more likely to develop serious illness. People with
-            fever, cough and difficulty breathing should seek medical attention.
+            Los síntomas más comunes de COVID-19 son fiebre, cansancio y sequedad.
+            tos. Algunos pacientes pueden tener dolores y molestias, congestión nasal,
+            secreción nasal, dolor de garganta o diarrea. Estos síntomas suelen ser leves
+            y comenzar gradualmente Algunas personas se infectan pero no se desarrollan
+            cualquier síntoma y no se siente mal. La mayoría de las personas (alrededor del 80%) se recuperan
+            de la enfermedad sin necesidad de un tratamiento especial. Alrededor de 1 de
+            cada 6 personas que contraen COVID-19 se enferman gravemente y se desarrollan
+            respiración dificultosa. Las personas mayores y las personas con
+            problemas médicos como presión arterial alta, problemas cardíacos o
+            diabetes, son más propensos a desarrollar enfermedades graves. Personas con
+            fiebre, tos y dificultad para respirar deben buscar atención médica.
           </p>
           <p>
-            Read about
+            Leer acerca de
             <a
               href="https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html"
               target="_blank"
             >
-              COVID-19 Symptoms from CDC.gov
+              COVID-19 síntomas
             </a>
             .
           </p>
@@ -663,13 +663,13 @@ const items = [
       body: (
         <React.Fragment>
           <p>
-            Not everyone needs to be tested for COVID-19. For information about
-            testing, see
+            No todos necesitan hacerse la prueba de COVID-19. Para información sobre
+            prueba, ver
             <a
               href="https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html"
               target="_blank"
             >
-              Testing for COVID-19
+            Prueba para COVID-19
             </a>
             .
           </p>
@@ -677,35 +677,35 @@ const items = [
       ),
     },
     {
-      title: "Where can I get tested for COVID-19?",
+      title: "¿Dónde puedo hacerme la prueba de COVID-19?",
       body: (
         <React.Fragment>
           <p>
-            The process and locations for testing vary from place to place.
-            Contact your state, local, tribal, or territorial department for
-            more information, or reach out to a medical provider. State and
-            local public health departments have received tests from CDC while
-            medical providers are getting tests developed by commercial
-            manufacturers. While supplies of these tests are increasing, it may
-            still be difficult to find someplace to get tested.
+            El proceso y las ubicaciones para las pruebas varían de un lugar a otro.
+            Póngase en contacto con su departamento estatal, local, tribal o territorial para
+            más información o comuníquese con un proveedor médico. Estado y
+            los departamentos locales de salud pública han recibido pruebas de los CDC mientras
+            proveedores médicos están recibiendo pruebas desarrolladas por comerciales
+            fabricantes. Si bien los suministros de estas pruebas están aumentando, puede
+            aún será difícil encontrar un lugar para hacerse la prueba.
           </p>
         </React.Fragment>
       ),
     },
     {
-      title: "Can a person test negative and later test positive for COVID-19?",
+      title: "¿Puede una persona dar negativo y luego dar positivo por COVID-19?",
       body: (
         <React.Fragment>
           <p>
-            Using the CDC-developed diagnostic test, a negative result means
-            that the virus that causes COVID-19 was not found in the person’s
-            sample. In the early stages of infection, it is possible the virus
-            will not be detected.
+            Usando la prueba de diagnóstico desarrollada por los CDC, un resultado negativo significa
+            que el virus que causa COVID-19 no se encontró en la persona
+            muestra. En las primeras etapas de la infección, es posible que el virus
+            No será detectado.
           </p>
           <p>
-            For COVID-19, a negative test result for a sample collected while a
-            person has symptoms likely means that the COVID-19 virus is not
-            causing their current illness.
+            Para COVID-19, un resultado de prueba negativo para una muestra recolectada mientras
+            la persona tiene síntomas probablemente significa que el virus COVID-19 no es
+            causando su enfermedad actual.
           </p>
         </React.Fragment>
       ),
@@ -713,12 +713,12 @@ const items = [
   ],
   [
     {
-      title: "What should I do if there is an outbreak in my community?",
+      title: "¿Qué debo hacer si hay un brote en mi comunidad?",
       body: (
         <React.Fragment>
           <p>
-            During an outbreak, stay calm and put your preparedness plan to
-            work. Follow the steps below:
+            Durante un brote, mantén la calma y pon tu plan de preparación a
+            trabajo. Siga los pasos a continuación:
           </p>
           <p>
             <strong>
@@ -726,66 +726,66 @@ const items = [
                 href="https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html"
                 target="_blank"
               >
-                Protect yourself and others
+              Protégete y a los demás(
               </a>
               .
             </strong>
           </p>
           <ul className="list-dot">
             <li>
-              Stay home if you are sick. Keep away from people who are sick.
-              Limit close contact with others as much as possible (about 6
-              feet).
+              Quédate en casa si estás enfermo. Manténgase alejado de las personas que están enfermas.
+              Limite el contacto cercano con otros tanto como sea posible (aproximadamente 6
+              pies)
             </li>
           </ul>
           <p>
-            <strong>Put your household plan into action. </strong>
+            <strong>Ponga en práctica su plan familiar. </strong>
           </p>
           <ul className="list-dot">
             <li>
-              <strong>Stay informed about the local COVID-19 situation</strong>.
-              Be aware of temporary school dismissals in your area, as this may
-              affect your household’s daily routine.
+              <strong>Manténgase informado sobre la situación local de COVID-19</strong>.
+              Tenga en cuenta los despidos temporales de la escuela en su área, ya que esto puede
+              afectar la rutina diaria de su hogar.
             </li>
           </ul>
           <ul className="list-dot">
             <li>
-              <strong>Continue practicing everyday preventive actions. </strong>
-              Cover coughs and sneezes with a tissue and wash your hands often
-              with soap and water for at least 20 seconds. If soap and water are
-              not available, use a hand sanitizer that contains 60% alcohol.
-              Clean frequently touched surfaces and objects daily using a
-              regular household detergent and water.
+              <strong>Continúa practicando acciones preventivas cotidianas. </strong>
+              Cubra la tos y los estornudos con un pañuelo desechable y lávese las manos con frecuencia.
+              con agua y jabón durante al menos 20 segundos. Si hay agua y jabón
+              no disponible, use un desinfectante para manos que contenga 60% de alcohol.
+              Limpie diariamente las superficies y objetos que se tocan con frecuencia usando un
+              detergente doméstico regular y agua.
             </li>
             <li>
               <strong>
-                Notify your workplace as soon as possible if your regular work
-                schedule changes.
+                Notifique a su lugar de trabajo lo antes posible si su trabajo habitual
+                Cambios de horario.
               </strong>
-              Ask to work from home or take leave if you or someone in your
-              household gets sick with
+              Solicite trabajar desde casa o tome un permiso si usted o alguien en su
+              el hogar se enferma con
               <a
                 href="https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html"
                 target="_blank"
               >
-                COVID-19 symptoms
+                COVID-19 síntomas
               </a>
-              , or if your child’s school is dismissed temporarily.
+              , o si la escuela de su hijo se cierra temporalmente.
               <a
                 href="https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/guidance-business-response.html"
                 target="_blank"
               >
-                Learn how businesses and employers can plan for and respond to
-                COVID-19.
+              Aprenda cómo las empresas y los empleadores pueden planificar y responder a
+              COVID-19.
               </a>
             </li>
             <li>
-              <strong>Stay in touch with others by phone or email. </strong>If
-              you have a chronic medical condition and live alone, ask family,
-              friends, and health care providers to check on you during an
-              outbreak. Stay in touch with family and friends, especially those
-              at increased risk of developing severe illness, such as older
-              adults and people with severe chronic medical conditions.
+              <strong>Póngase en contacto con otras personas por teléfono o correo electrónico. </strong>If
+              tiene una condición médica crónica y vive solo, pregunte a su familia,
+              amigos y proveedores de atención médica para controlarlo durante un
+              brote. Manténgase en contacto con familiares y amigos, especialmente aquellos
+              con mayor riesgo de desarrollar enfermedades graves, como las de mayor edad
+              adultos y personas con afecciones médicas crónicas graves.
             </li>
           </ul>
         </React.Fragment>
@@ -793,21 +793,21 @@ const items = [
     },
     {
       title:
-        "How do I prepare my children in case of COVID-19 outbreak in our community?",
+        "¿Cómo preparo a mis hijos en caso de brote de COVID-19 en nuestra comunidad??",
       body: (
         <React.Fragment>
           <p>
-            Outbreaks can be stressful for adults and children. Talk with your
-            children about the outbreak, try to stay calm, and reassure them
-            that they are safe. If appropriate, explain to them that most
-            illness from COVID-19 seems to be mild.
+            Los brotes pueden ser estresantes para adultos y niños. Habla con tu
+            niños sobre el brote, trate de mantener la calma y tranquilizarlos
+            Que están a salvo. Si corresponde, explíqueles que la mayoría
+            La enfermedad de COVID-19 parece ser leve.
           </p>
           <p>
             <a
               href="https://www.cdc.gov/childrenindisasters/helping-children-cope.html"
               target="_blank"
             >
-              Children respond differently to stressful situations than adults
+             Los niños responden de manera diferente a situaciones estresantes que los adultos.
             </a>
           </p>
         </React.Fragment>
@@ -819,79 +819,79 @@ const items = [
       body: (
         <React.Fragment>
           <p>
-            This is a new virus and we are still learning about it, but so far,
-            there does not seem to be a lot of illness in children. Most
-            illness, including serious illness, is happening in adults of
-            working age and older adults. If there cases of COVID-19 that impact
-            your child’s school, the school may dismiss students. Keep track of
-            school dismissals in your community. Read or watch local media
-            sources that report school dismissals. If schools are dismissed
-            temporarily, use alternative childcare arrangements, if needed.
+            Este es un virus nuevo y todavía estamos aprendiendo sobre él, pero hasta ahora,
+            No parece haber mucha enfermedad en los niños. Más
+            enfermedad, incluida enfermedad grave, está ocurriendo en adultos de
+            edad laboral y adultos mayores. Si hay casos de COVID-19 que impactan
+            la escuela de su hijo, la escuela puede despedir a los estudiantes. Seguir
+            despidos escolares en su comunidad. Lee o mira medios locales
+            fuentes que informan los despidos escolares. Si las escuelas se cierran
+            temporalmente, use arreglos alternativos de cuidado de niños, si es necesario.
           </p>
           <p>
-            If your child/children become sick with COVID-19, notify their
-            childcare facility or school. Talk with teachers about classroom
-            assignments and activities they can do from home to keep up with
-            their schoolwork.
+            Si su hijo / hijos se enferman con COVID-19, notifique a su
+            guardería o escuela. Hable con los maestros sobre el aula.
+            tareas y actividades que pueden hacer desde casa para mantenerse al día
+            su trabajo escolar
           </p>
           <p>
-            Discourage children and teens from gathering in other public places
-            while school is dismissed to help slow the spread of COVID-19 in the
-            community.
-          </p>
-        </React.Fragment>
-      ),
-    },
-    {
-      title:
-        "Will schools be dismissed if there is an outbreak in my community?",
-      body: (
-        <React.Fragment>
-          <p>
-            Depending on the situation, public health officials may recommend
-            community actions to reduce exposures to COVID-19, such as school
-            dismissals. Read or watch local media sources that report school
-            dismissals or and watch for communication from your child’s school.
-            If schools are dismissed temporarily, discourage students and staff
-            from gathering or socializing anywhere, like at a friend’s house, a
-            favorite restaurant, or the local shopping mall.
+            Disuadir a los niños y adolescentes de reunirse en otros lugares públicos.
+            mientras se cierra la escuela para ayudar a frenar la propagación de COVID-19 en el
+            comunidad.
           </p>
         </React.Fragment>
       ),
     },
     {
       title:
-        "Can the virus that causes COVID-19 be spread through food, including refrigerated or frozen food?",
+        "¿Se cerrarán las escuelas si hay un brote en mi comunidad??",
       body: (
         <React.Fragment>
           <p>
-            Coronaviruses are generally thought to be spread from
-            person-to-person through respiratory droplets. Currently there is no
-            evidence to support transmission of COVID-19 associated with food.
-            Before preparing or eating food it is important to always wash your
-            hands with soap and water for 20 seconds for general food safety.
-            Throughout the day wash your hands after blowing your nose, coughing
-            or sneezing, or going to the bathroom.
+            Dependiendo de la situación, los funcionarios de salud pública pueden recomendar
+            acciones comunitarias para reducir las exposiciones a COVID-19, como la escuela
+            despidos. Lee o mira fuentes de medios locales que informan sobre la escuela
+            despidos o vigile la comunicación de la escuela de su hijo.
+            Si las escuelas se cierran temporalmente, desanime a los estudiantes y al personal
+            desde reunirse o socializar en cualquier lugar, como en la casa de un amigo, un
+            restaurante favorito, o el centro comercial local.
+          </p>
+        </React.Fragment>
+      ),
+    },
+    {
+      title:
+        "¿Se puede transmitir el virus que causa COVID-19 a través de los alimentos, incluidos los alimentos refrigerados o congelados?",
+      body: (
+        <React.Fragment>
+          <p>
+            Generalmente se cree que los coronavirus se transmiten de
+            persona a persona a través de gotitas respiratorias. Actualmente no hay
+            evidencia para apoyar la transmisión de COVID-19 asociado con alimentos.
+            Antes de preparar o comer alimentos, es importante lavar siempre
+            manos con agua y jabón durante 20 segundos para la seguridad alimentaria general.
+            Durante todo el día, lávese las manos después de sonarse la nariz, toser
+            o estornudar, o ir al baño.
           </p>
           <p>
-            It may be possible that a person can get COVID-19 by touching a
-            surface or object that has the virus on it and then touching their
-            own mouth, nose, or possibly their eyes, but this is not thought to
-            be the main way the virus spreads.
+            Es posible que una persona pueda obtener COVID-19 tocando un
+            superficie u objeto que tiene el virus y luego toca su
+            propia boca, nariz o posiblemente sus ojos, pero no se cree que esto
+            ser la principal forma en que se propaga el virus.
           </p>
           <p>
-            In general, because of poor survivability of these coronaviruses on
-            surfaces, there is likely very low risk of spread from food products
-            or packaging that are shipped over a period of days or weeks at
-            ambient, refrigerated, or frozen temperatures.
+            En general, debido a la poca capacidad de supervivencia de estos coronavirus en
+            superficies, existe un riesgo muy bajo de propagación de los productos alimenticios
+            o embalaje que se envía durante un período de días o semanas a
+            temperatura ambiente, refrigerada o congelada.
           </p>
           <p>
-            Learn what is known about the
+            Aprenda lo que se sabe sobre el
             <a
               href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html"
               target="_blank"
             >
-              spread of COVID-19
+              Esparcimiento del COVID-19
             </a>
             .
           </p>
@@ -899,23 +899,23 @@ const items = [
       ),
     },
     {
-      title: "Should I go to work if there is an outbreak in my community?",
+      title: "¿Debo ir a trabajar si hay un brote en mi comunidad?",
       body: (
         <React.Fragment>
           <p>
-            Follow the advice of your local health officials. Stay home if you
-            can. Talk to your employer to discuss working from home, taking
-            leave if you or someone in your household gets sick with
+            Siga los consejos de sus funcionarios de salud locales. Quédate en casa si
+            lata. Hable con su empleador para hablar sobre trabajar desde casa, tomar
+            irse si usted o alguien en su hogar se enferma
             <a
               href="https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html"
               target="_blank"
             >
-              COVID-19 symptoms
+             Síntomas COVID-19
             </a>
-            , or if your child’s school is dismissed temporarily. Employers
-            should be aware that more employees may need to stay at home to care
-            for sick children or other sick family members than is usual in case
-            of a community outbreak.
+            , o si la escuela de su hijo se cierra temporalmente. Empleadores
+            debe tener en cuenta que es posible que más empleados deban quedarse en casa para cuidar
+            para niños enfermos u otros miembros de la familia enfermos de lo habitual en caso
+            de un brote comunitario.
           </p>
         </React.Fragment>
       ),
@@ -924,133 +924,132 @@ const items = [
   [
     {
       title:
-        "COVID-19 virus can be transmitted in areas with hot and humid climates?",
+        "¿El virus COVID-19 puede transmitirse en áreas con climas cálidos y húmedos?",
       body: (
         <React.Fragment>
           <p>
-            From the evidence so far, the COVID-19 virus can be transmitted in
-            ALL AREAS, including areas with hot and humid weather. Regardless of
-            climate, adopt protective measures if you live in, or travel to an
-            area reporting COVID-19. The best way to protect yourself against
-            COVID-19 is by frequently cleaning your hands. By doing this you
-            eliminate viruses that may be on your hands and avoid infection that
-            could occur by then touching your eyes, mouth, and nose.
+            De la evidencia hasta ahora, el virus COVID-19 puede transmitirse en
+            TODAS LAS ÁREAS, incluidas las zonas con clima cálido y húmedo. A pesar de
+            clima, adopte medidas de protección si vive o viaja a un
+            área de informes COVID-19. La mejor manera de protegerte contra
+            COVID-19 se limpia frecuentemente las manos. Al hacer esto, usted
+            eliminar virus que puedan estar en sus manos y evitar infecciones que
+            podría ocurrir al tocarse los ojos, la boca y la nariz.
           </p>
         </React.Fragment>
       ),
     },
     {
-      title: "Cold weather and snow CANNOT kill the new coronavirus",
+      title: "El clima frío y la nieve NO PUEDEN matar al nuevo coronavirus",
       body: (
         <React.Fragment>
           <p>
-            There is no reason to believe that cold weather can kill the new
-            coronavirus or other diseases. The normal human body temperature
-            remains around 36.5°C to 37°C, regardless of the external
-            temperature or weather. The most effective way to protect yourself
-            against the new coronavirus is by frequently cleaning your hands
-            with alcohol-based hand rub or washing them with soap and water.
+            No hay razón para creer que el clima frío puede matar al nuevo
+            coronavirus u otras enfermedades. La temperatura normal del cuerpo humano.
+            permanece alrededor de 36.5 ° C a 37 ° C, independientemente del exterior
+            temperatura o clima. La forma más efectiva de protegerte
+            contra el nuevo coronavirus se limpia frecuentemente las manos
+            con un desinfectante para manos a base de alcohol o lavándolos con agua y jabón.
           </p>
         </React.Fragment>
       ),
     },
     {
-      title: "Taking a hot bath does not prevent the new coronavirus disease",
+      title: "Tomar un baño caliente no previene la nueva enfermedad por coronavirus",
       body: (
         <React.Fragment>
           <p>
-            Taking a hot bath will not prevent you from catching COVID-19. Your
-            normal body temperature remains around 36.5°C to 37°C, regardless of
-            the temperature of your bath or shower. Actually, taking a hot bath
-            with extremely hot water can be harmful, as it can burn you. The
-            best way to protect yourself against COVID-19 is by frequently
-            cleaning your hands. By doing this you eliminate viruses that may be
-            on your hands and avoid infection that could occur by then touching
-            your eyes, mouth, and nose.
-          </p>
-        </React.Fragment>
-      ),
-    },
-    {
-      title:
-        "The new coronavirus CANNOT be transmitted through mosquito bites.",
-      body: (
-        <React.Fragment>
-          <p>
-            To date there has been no information nor evidence to suggest that
-            the new coronavirus could be transmitted by mosquitoes. The new
-            coronavirus is a respiratory virus which spreads primarily through
-            droplets generated when an infected person coughs or sneezes, or
-            through droplets of saliva or discharge from the nose. To protect
-            yourself, clean your hands frequently with an alcohol-based hand rub
-            or wash them with soap and water. Also, avoid close contact with
-            anyone who is coughing and sneezing.
-          </p>
-        </React.Fragment>
-      ),
-    },
-    {
-      title: "Are hand dryers effective in killing the new coronavirus?",
-      body: (
-        <React.Fragment>
-          <p>
-            No. Hand dryers are not effective in killing the 2019-nCoV. To
-            protect yourself against the new coronavirus, you should frequently
-            clean your hands with an alcohol-based hand rub or wash them with
-            soap and water. Once your hands are cleaned, you should dry them
-            thoroughly by using paper towels or a warm air dryer.
-          </p>
-        </React.Fragment>
-      ),
-    },
-    {
-      title: "Can an ultraviolet disinfection lamp kill the new coronavirus?",
-      body: (
-        <React.Fragment>
-          <p>
-            UV lamps should not be used to sterilize hands or other areas of
-            skin as UV radiation can cause skin irritation.
+            Tomar un baño caliente no le impedirá atrapar COVID-19. Tu
+            la temperatura corporal normal permanece alrededor de 36.5 ° C a 37 ° C, independientemente de
+            La temperatura de su baño o ducha. En realidad, tomando un baño caliente
+            con agua extremadamente caliente puede ser dañino, ya que puede quemarte. los
+            La mejor manera de protegerse contra COVID-19 es con frecuencia
+            limpiando tus manos Al hacer esto, elimina los virus que pueden ser
+            en sus manos y evite la infección que podría ocurrir al tocar
+            tus ojos, boca y nariz.
           </p>
         </React.Fragment>
       ),
     },
     {
       title:
-        "How effective are thermal scanners in detecting people infected with the new coronavirus?",
+        "El nuevo coronavirus NO PUEDE transmitirse a través de las picaduras de mosquitos.",
       body: (
         <React.Fragment>
           <p>
-            Thermal scanners are effective in detecting people who have
-            developed a fever (i.e. have a higher than normal body temperature)
-            because of infection with the new coronavirus.
+            Hasta la fecha no ha habido información ni evidencia que sugiera que
+            El nuevo coronavirus podría ser transmitido por mosquitos. El nuevo
+            El coronavirus es un virus respiratorio que se propaga principalmente a través de
+            gotas generadas cuando una persona infectada tose o estornuda, o
+            a través de gotas de saliva o secreción de la nariz. Proteger
+            usted mismo, limpie sus manos frecuentemente con un desinfectante para manos a base de alcohol
+            o lávelos con agua y jabón. Además, evite el contacto cercano con
+            cualquiera que esté tosiendo y estornudando.
+          </p>
+        </React.Fragment>
+      ),
+    },
+    {
+      title: "¿Los secadores de manos son efectivos para matar el nuevo coronavirus?",
+      body: (
+        <React.Fragment>
+          <p>
+           No. Los secadores de manos no son efectivos para matar el 2019-nCoV. A
+            protégete contra el nuevo coronavirus, debes
+            lávese las manos con un desinfectante para manos a base de alcohol o láveselas con
+            Jabón y agua. Una vez que te limpies las manos, debes secarlas
+            completamente usando toallas de papel o un secador de aire caliente.
+          </p>
+        </React.Fragment>
+      ),
+    },
+    {
+      title: "¿Puede una lámpara de desinfección ultravioleta matar el nuevo coronavirus?",
+      body: (
+        <React.Fragment>
+          <p>
+            Las lámparas UV no deben usarse para esterilizar las manos u otras áreas de
+            piel ya que la radiación UV puede causar irritación de la piel.
+          </p>
+        </React.Fragment>
+      ),
+    },
+    {
+      title:"¿Qué tan efectivos son los escáneres térmicos en la detección de personas infectadas con el nuevo coronavirus?",
+      body: (
+        <React.Fragment>
+          <p>
+            Los escáneres térmicos son efectivos para detectar personas que tienen
+            desarrolló fiebre (es decir, tiene una temperatura corporal más alta de lo normal)
+            por infección con el nuevo coronavirus.
           </p>
           <p>
-            However, they cannot detect people who are infected but are not yet
-            sick with fever. This is because it takes between 2 and 10 days
-            before people who are infected become sick and develop a fever.
+            Sin embargo, no pueden detectar personas que están infectadas pero que aún no lo están
+            enfermo de fiebre Esto se debe a que toma entre 2 y 10 días.
+            antes de que las personas infectadas se enfermen y desarrollen fiebre.
           </p>
         </React.Fragment>
       ),
     },
     {
       title:
-        "Do vaccines against pneumonia protect you against the new coronavirus?",
+        "¿Las vacunas contra la neumonía lo protegen contra el nuevo coronavirus?",
       body: (
         <React.Fragment>
           <p>
-            No. Vaccines against pneumonia, such as pneumococcal vaccine and
-            Haemophilus influenza type B (Hib) vaccine, do not provide
-            protection against the new coronavirus.
+            No. Vacunas contra la neumonía, como la vacuna antineumocócica y
+            Vacuna contra la influenza Haemophilus tipo B (Hib), no proporcione
+            protección contra el nuevo coronavirus.
           </p>
           <p>
-            The virus is so new and different that it needs its own vaccine.
-            Researchers are trying to develop a vaccine against 2019-nCoV, and
-            WHO is supporting their efforts.
+            El virus es tan nuevo y diferente que necesita su propia vacuna.
+            Los investigadores están tratando de desarrollar una vacuna contra 2019-nCoV, y
+            La OMS está apoyando sus esfuerzos.
           </p>
           <p>
-            Although these vaccines are not effective against 2019-nCoV,
-            vaccination against respiratory illnesses is highly recommended to
-            protect your health.
+            Aunque estas vacunas no son efectivas contra 2019-nCoV,
+            la vacunación contra enfermedades respiratorias es muy recomendable para
+            Protege tu salud.
           </p>
         </React.Fragment>
       ),
@@ -1085,9 +1084,9 @@ const section_9 = (props) => {
     >
       <div className="container">
         <div className={["section-head text-center"].join(" ")}>
-          <h5 className="subtitle">Frequently Asked Questions</h5>
+          <h5 className="subtitle">preguntas frecuentes</h5>
           <h2 className="title">
-            Common Question <br className="d-sm-none" /> &amp; Answer
+            Pregunta <br className="d-sm-none" /> &amp; Respuesta
           </h2>
         </div>
         <div className="section-content">
