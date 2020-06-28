@@ -15,7 +15,7 @@ const tabs = [
 const items = [
   [
     {
-      title: "What is a novel coronavirus?",
+      title: "¿Qué es un nuevo coronavirus?",
       body: (
         <React.Fragment>
           <p>
@@ -379,7 +379,7 @@ const items = [
     },
     {
       title:
-        "What should I do if I had close contact with someone who has COVID-19?",
+        "¿Qué debo hacer si tuve contacto cercano con alguien que tiene COVID-19?",
       body: (
         <React.Fragment>
           <p>
@@ -629,7 +629,7 @@ const items = [
   ],
   [
     {
-      title: "What are the symptoms of COVID-19?",
+      title: "¿Cuáles son los síntomas de COVID-19?",
       body: (
         <React.Fragment>
           <p>
@@ -815,7 +815,7 @@ const items = [
     },
     {
       title:
-        "What steps should parents take to protect children during a community outbreak?",
+      "¿Qué medidas deben tomar los padres para proteger a los niños durante un brote en la comunidad?",
       body: (
         <React.Fragment>
           <p>
