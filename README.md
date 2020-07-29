@@ -31,3 +31,5 @@ https://www.cdc.gov/coronavirus/2019-ncov/index.html
 ![](https://res.cloudinary.com/drwln3yve/image/upload/v1594009706/Captura_de_Pantalla_2020-07-05_a_la_s_10.24.10_p._m._wxugiq.png)
 ![](https://res.cloudinary.com/drwln3yve/image/upload/v1594009704/Captura_de_Pantalla_2020-07-05_a_la_s_10.24.58_p._m._gtm7lo.png)
 
+
+autor: mabsboza
